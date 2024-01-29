@@ -1,0 +1,36 @@
+In this project, i had upload the full source code for drowsiness detection in python.
+
+How it will work ?
+I will explain from starting to ending!
+
+The concept of working is the sensor could measure the angle of the your eyes, that means the angle of the eye will short the alarm will sound.
+
+how to set into your System or laptop?
+
+I will explaim!
+<INSTALLATION PROCESS>
+    * first of all create a new folder where you want to save your project
+    * Save the source code given in the python.py file in your new folder.
+    * download and save the Extra file and the audio file in your new folder
+
+<PIP INSTALLATION>
+
+    *Check the python(IDLE) is available in your system or laptop.
+    *after installation of python, open the command promt by pressing (win+R and enter "cmd" command) to check the version of your python(IDLE).
+    *After checking the version of python, now you can install the pip libraries in your system to run the program in your succesful.
+
+
+
+  * The Pip Library files are 
+
+      1. opencv-python
+      2.dlib
+      3.imutils
+      4.pygame
+      5.scipy
+
+note : 
+    Before install the pip library (dlib) must should install the cmake app and microsoft python file in your vscode extension or web browser. 
+
+
+After completed all these process you can ready to run your project easily!
